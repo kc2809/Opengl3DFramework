@@ -1,0 +1,22 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl _1
+Ka 0.000000 0.000000 0.000000
+Kd 0.537255 0.082353 0.082353
+Ks 0.330000 0.330000 0.330000
+map_Kd giftBox/_1.tga
+
+newmtl M_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.419608 0.219608 0.125490
+Ks 0.330000 0.330000 0.330000
+map_Kd giftBox/M_1.tga
+
+newmtl M_3
+Ka 0.000000 0.000000 0.000000
+Kd 0.521569 0.090196 0.086275
+Ks 0.330000 0.330000 0.330000
+map_Kd giftBox/M_3.tga
+

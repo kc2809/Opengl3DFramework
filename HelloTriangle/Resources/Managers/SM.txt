@@ -1,0 +1,15 @@
+#MENUSCENE
+../Resources/Managers/MSM.txt
+#SCOREFILE
+../Resources/Managers/score.sc
+#SCORESCENE
+../Resources/Managers/SSM.txt
+#HELPSCENE
+../Resources/Managers/HSM.txt
+#LEVELSFOLDER
+../Resources/Levels
+#NumberOfLevels 10
+#GAMEPLAYSCENE
+../Resources/Managers/GSM.txt
+#LOGOSCENE
+../Resources/Managers/LSM.txt

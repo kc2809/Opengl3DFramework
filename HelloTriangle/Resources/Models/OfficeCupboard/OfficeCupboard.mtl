@@ -1,0 +1,22 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl _Wood_Floor_Parquet_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.568627 0.349020 0.152941
+Ks 0.330000 0.330000 0.330000
+map_Kd OfficeCupboard/_Wood_Floor_Parquet_1.tga
+
+newmtl Wood_Floor_Parquet
+Ka 0.000000 0.000000 0.000000
+Kd 0.568627 0.349020 0.152941
+Ks 0.330000 0.330000 0.330000
+map_Kd OfficeCupboard/Wood_Floor_Parquet.tga
+
+newmtl _Wood_OSB_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.941176 0.764706 0.478431
+Ks 0.330000 0.330000 0.330000
+map_Kd OfficeCupboard/_Wood_OSB_1.tga
+

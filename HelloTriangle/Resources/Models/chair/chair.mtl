@@ -1,0 +1,16 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl Wood_Cherry_Original
+Ka 0.000000 0.000000 0.000000
+Kd 0.592157 0.337255 0.160784
+Ks 0.330000 0.330000 0.330000
+map_Kd chair/Wood_Cherry_Original.tga
+
+newmtl _153
+Ka 0.000000 0.000000 0.000000
+Kd 0.764706 0.721569 0.580392
+Ks 0.330000 0.330000 0.330000
+map_Kd chair/_153.tga
+

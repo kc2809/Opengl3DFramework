@@ -1,0 +1,139 @@
+2DTEXTURES: bigtexture.tga
+
+num: 31
+
+1. background
+0, 0
+1280, 720
+
+2. paper
+1280, 0
+768, 614
+
+3. menucat
+0, 720
+227, 360
+
+4. menurat
+227, 720
+154, 180
+
+5. catlogo2
+381, 720
+240, 240
+
+6. catlogo1
+621, 720
+240, 240
+
+7. ratlogo
+861, 720
+240, 133
+
+8. raticon
+861, 853
+80, 80
+
+9. eggicon
+80, 1630
+80, 80
+
+10. clockicon
+0, 1630
+82, 80
+
+11. gamename
+381, 960
+720, 90
+
+12. soundon
+0, 1550
+80, 80
+
+13. soundoff
+80, 1550
+80, 80
+
+14. homeRelease
+160, 1550
+80, 80
+
+15. home
+160, 1630
+80, 80
+
+16. leftRelease
+240, 1550
+200, 156
+
+17. left
+1101, 720
+200, 156
+
+18. rightRelease
+440, 1550
+200, 156
+
+19. right
+1101, 876
+200, 156
+
+20. playRelease
+1301, 720
+400, 130
+
+21. play
+1301, 850
+400, 130
+
+22. scoreRelease
+1301, 980
+450, 100
+
+23. score
+1301, 1080
+450, 100
+
+24. helpRelease
+1301, 1180
+330, 150
+
+25. help
+1301, 1330
+330, 150
+
+26. quitRelease
+1631, 1180
+300, 150
+
+27. quit
+1631, 1330
+300, 150
+
+28. bar
+0, 1720
+1280, 100
+
+29. surface
+0, 1820
+720, 90
+
+30. replayRelease
+1301, 1480
+500, 150
+
+31. replay
+1301, 1630
+500, 150
+
+CUBETEXTURES 2
+
+1. Room
+room.tga
+tiling CLAMP_TO_EDGE
+
+2. Room2
+room2.tga
+tiling CLAMP_TO_EDGE
+
+FONT: font.tga

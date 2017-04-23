@@ -1,0 +1,16 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl Wood_Cherry_Original
+Ka 0.000000 0.000000 0.000000
+Kd 0.207843 0.117647 0.054902
+Ks 0.330000 0.330000 0.330000
+map_Kd ChestOfDrawers/Wood_Cherry_Original.tga
+
+newmtl M_0128_White
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd ChestOfDrawers/Wood_Cherry_Original.tga
+

@@ -1,0 +1,33 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl _Wood_cherry_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.713725 0.560784 0.298039
+Ks 0.330000 0.330000 0.330000
+map_Kd Cupboard/_Wood_cherry_1.tga
+
+newmtl _Wood_cherry_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.337255 0.164706
+Ks 0.330000 0.330000 0.330000
+map_Kd Cupboard/_Wood_cherry_2.tga
+
+newmtl _Wood_cherry_6
+Ka 0.000000 0.000000 0.000000
+Kd 0.145098 0.192157 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd Cupboard/_Wood_cherry_6.tga
+
+newmtl _CorrogateShiny_
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.756863 0.756863
+Ks 0.330000 0.330000 0.330000
+map_Kd Cupboard/_CorrogateShiny_.tga
+
+newmtl _LightGray_
+Ka 0.000000 0.000000 0.000000
+Kd 0.662745 0.662745 0.662745
+Ks 0.330000 0.330000 0.330000
+map_Kd Cupboard/_CorrogateShiny_.tga

@@ -1,0 +1,10 @@
+﻿  GameplayScene.cpp
+e:\khanh\gameloft\gameloftinternship\gameloft_workspace\killtherats\hellotriangle\opengles2framework\gameplayscene.cpp(132): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\khanh\gameloft\gameloftinternship\gameloft_workspace\killtherats\hellotriangle\opengles2framework\gameplayscene.cpp(135): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\khanh\gameloft\gameloftinternship\gameloft_workspace\killtherats\hellotriangle\opengles2framework\gameplayscene.cpp(141): warning C4305: 'argument': truncation from 'double' to 'float'
+e:\khanh\gameloft\gameloftinternship\gameloft_workspace\killtherats\hellotriangle\opengles2framework\gameplayscene.cpp(142): warning C4305: 'argument': truncation from 'double' to 'float'
+e:\khanh\gameloft\gameloftinternship\gameloft_workspace\killtherats\hellotriangle\opengles2framework\gameplayscene.cpp(181): warning C4244: 'argument': conversion from 'GLuint' to 'float', possible loss of data
+  Egg.cpp
+  Generating Code...
+  OpenGLES2Framework.vcxproj -> E:\Khanh\GameLoft\GameloftInternship\gameloft_workspace\KillTheRats\HelloTriangle\BIN\OpenGLES2Framework.exe
+  OpenGLES2Framework.vcxproj -> E:\Khanh\GameLoft\GameloftInternship\gameloft_workspace\KillTheRats\HelloTriangle\BIN\OpenGLES2Framework.pdb (Full PDB)

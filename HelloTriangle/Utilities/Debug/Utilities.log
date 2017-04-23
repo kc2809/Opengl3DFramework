@@ -1,0 +1,12 @@
+﻿  Win32Surface.cpp
+  Vector4.cpp
+e:\khanh\gameloft\gameloftinternship\gameloft_workspace\killtherats\hellotriangle\utilities\vector4.cpp(10): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Vector3.cpp
+e:\khanh\gameloft\gameloftinternship\gameloft_workspace\killtherats\hellotriangle\utilities\vector3.cpp(10): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Vector2.cpp
+e:\khanh\gameloft\gameloftinternship\gameloft_workspace\killtherats\hellotriangle\utilities\vector2.cpp(9): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Timer.cpp
+  TGA.cpp
+  Matrix.cpp
+  Generating Code...
+  Utilities.vcxproj -> E:\Khanh\GameLoft\GameloftInternship\gameloft_workspace\KillTheRats\HelloTriangle\Debug\Utilities.lib

@@ -1,0 +1,59 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl Folha_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.545098 0.564706 0.498039
+Ks 0.330000 0.330000 0.330000
+map_Kd Iris/Folha_2.tga
+
+newmtl _Translucent_Glass_Blue_3
+Ka 0.000000 0.000000 0.000000
+Kd 0.501961 0.501961 0.501961
+Ks 0.330000 0.330000 0.330000
+d 0.120000
+map_Kd Iris/Folha_1.tga
+
+newmtl Tronco
+Ka 0.000000 0.000000 0.000000
+Kd 0.384314 0.545098 0.376471
+Ks 0.330000 0.330000 0.330000
+map_Kd Iris/Tronco.tga
+
+newmtl Petala_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.615686 0.525490 0.721569
+Ks 0.330000 0.330000 0.330000
+map_Kd Iris/Petala_2.tga
+
+newmtl Carpelo_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.686275 0.588235 0.454902
+Ks 0.330000 0.330000 0.330000
+map_Kd Iris/Carpelo_1.tga
+
+newmtl Petala_3
+Ka 0.000000 0.000000 0.000000
+Kd 0.647059 0.564706 0.701961
+Ks 0.330000 0.330000 0.330000
+map_Kd Iris/Petala_3.tga
+
+newmtl Petala_4
+Ka 0.000000 0.000000 0.000000
+Kd 0.627451 0.541176 0.725490
+Ks 0.330000 0.330000 0.330000
+map_Kd Iris/Petala_4.tga
+
+newmtl Petala_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.647059 0.549020 0.690196
+Ks 0.330000 0.330000 0.330000
+map_Kd Iris/Petala_1.tga
+
+newmtl Folha_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.501961 0.556863 0.384314
+Ks 0.330000 0.330000 0.330000
+map_Kd Iris/Folha_1.tga
+

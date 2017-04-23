@@ -1,0 +1,10 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl Marble_Stock_Texture_For_You_by_budgie
+Ka 0.000000 0.000000 0.000000
+Kd 0.890196 0.882353 0.862745
+Ks 0.330000 0.330000 0.330000
+map_Kd MarbleVase/Marble_Stock_Texture_For_You_by_budgie.tga
+

@@ -1,0 +1,22 @@
+# Alias OBJ Model File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+# File units = inches
+
+mtllib outside2.mtl
+
+g Mesh1 Model
+
+usemtl picture2
+v 0 0 -0
+vt 0 0
+vn 0 5.60128e-017 1
+v 152.373 0 -0
+vt 1 0
+v 0 101.83 -5.70377e-015
+vt 0 1
+f 1/1/1 2/2/1 3/3/1
+
+v 152.373 101.83 -5.70377e-015
+vt 1 1
+f 4/4/1 3/3/1 2/2/1
+
